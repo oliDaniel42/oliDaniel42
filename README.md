@@ -2,7 +2,7 @@
 
 <p align="center">
 Desenvolvedor Back-End apaixonado por tecnologia e jogos! <br>
-Atualmente estudando <strong>Java</strong> e <strong>GDScript</strong> 🎮
+Atualmente cursando <strong>Analise e desenvolvimento de sistemas</strong> na <strong>UNIFACS</strong> e estudando <strong>GDScript</strong> 🎮
 </p>
 
 <div align="center">
